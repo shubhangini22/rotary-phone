@@ -1,4 +1,4 @@
-public class Application{
+public class App2{
     public static void main(String[] args)
     {
         //8 primitive datatypes in java
@@ -10,11 +10,11 @@ public class Application{
         //64 bits
         long lg=2333;
         //128 bits
-        float fl=3.4;
+        float fl=4;
         //decimal 32 bits
         double db=444.4;
         //decimal 64 bits
-        System.out.printIn(myNumber);
+        System.out.println(myNumber);
         //declaration of variable
     }
 }
